@@ -1,0 +1,7 @@
+[submodule "sub-repository-1"]
+	path = sub-repository-1
+	url = https://github.com/botonger/sub-repository-1.git
+
+[submodule "sub-repository-2"]
+	path = sub-repository-2
+	url = https://github.com/botonger/sub-repository-2.git
